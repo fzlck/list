@@ -6,4 +6,5 @@ const Footer = () => {
   );
 }
 // git test
+// git test 2
 export default Footer;
